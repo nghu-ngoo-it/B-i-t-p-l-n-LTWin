@@ -1,0 +1,15 @@
+C:\Users\HUNG\source\repos\BTN1\BTN1\bin\Debug\BTN1.exe.config
+C:\Users\HUNG\source\repos\BTN1\BTN1\bin\Debug\BTN1.exe
+C:\Users\HUNG\source\repos\BTN1\BTN1\bin\Debug\BTN1.pdb
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.csproj.AssemblyReference.cache
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.Form1.resources
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.Properties.Resources.resources
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.csproj.GenerateResource.cache
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.csproj.CoreCompileInputs.cache
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.exe
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.pdb
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.ThongTinGV.resources
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.DeThi.resources
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.KhoND.resources
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.NHCauHoi.resources
+C:\Users\HUNG\source\repos\BTN1\BTN1\obj\Debug\BTN1.QLGiaoVien.resources
